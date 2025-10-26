@@ -1,0 +1,680 @@
+Uri: https://6326501.fs1.hubspotusercontent-na1.net/hubfs/6326501/boilerplate/grayscale-mountain.png
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6326501\boilerplate\grayscale-mountain.png
+Content Type: image/png
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/001-down-arrow-2.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\001-down-arrow-2.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/2tone/check-apple.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\2tone\check-apple.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/apple 25-1.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\apple 25-1.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/A_MGFjZjlkZDY2YjhlM2JmOYvo35X5BwfZBbnEHDWherIZOhntWIeWIaygMlvbNtsUFMI5nR_mT7Ja1qOGuYAVB-5zKckOJ-Tf63bn4DE8RSBpBPjNEvAXYd8EuhqtSlxz.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\A_MGFjZjlkZDY2YjhlM2JmOYvo35X5BwfZBbnEHDWherIZOhntWIeWIaygMlvbNtsUFMI5nR_mT7Ja1qOGuYAVB-5zKckOJ-Tf63bn4DE8RSBpBPjNEvAXYd8EuhqtSlxz.jpg
+Content Type: image/jpeg
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/background/bg-chemistry.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\background\bg-chemistry.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/background/bgbg.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\background\bgbg.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/background/Rectangle 227.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\background\Rectangle 227.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Blog Posts/listing-gradient3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\Blog Posts\listing-gradient3.png
+Content Type: image/png
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Blog Posts/post-gradient.png
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\Blog Posts\post-gradient.png
+Content Type: image/png
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Blog Posts/rectangle220.png
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\Blog Posts\rectangle220.png
+Content Type: image/png
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/caret-down-83445fca4263230d378de93199ca70d7.png
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\caret-down-83445fca4263230d378de93199ca70d7.png
+Content Type: image/png
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Black.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Black.woff
+Content Type: application/font-woff
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Black.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Black.woff2
+Content Type: application/font-woff2
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Bold.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Bold.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Light.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Light.woff
+Content Type: application/font-woff
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Light.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Light.woff2
+Content Type: application/font-woff2
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Regular.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Regular.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Thin.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/fonts/CircularXXWeb-Thin.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\fonts\CircularXXWeb-Thin.woff2
+Content Type: application/font-woff2
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/icons og mini/checkmark.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\icons og mini\checkmark.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/images-icons/white-mask.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\images-icons\white-mask.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Jelly-Check.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\Jelly-Check.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/jelly25-1.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\jelly25-1.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/legal/opt-out-30x14.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\legal\opt-out-30x14.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/licorice700.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\licorice700.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/raw_assets/public/circle/images/bullet-point-jelly.png
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\raw_assets\public\circle\images\bullet-point-jelly.png
+Content Type: image/png
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Social Icons/tmm-licorice.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\Social Icons\tmm-licorice.svg
+Content Type: image/svg+xml
+
+Uri: https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/SVG Icons/LinkOutIconWhite.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\SVG Icons\LinkOutIconWhite.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cookielaw.org/logos/static/ot_external_link.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\logos\static\ot_external_link.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/gh/ethereumjs/browser-builds/dist/ethereumjs-tx/ethereumjs-tx-1.3.3.min.js
+File Name: C:\Downloaded Web Sites\webappln.cf\gh\ethereumjs\browser-builds\dist\ethereumjs-tx\ethereumjs-tx-1.3.3.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11.7.16/dist/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\webappln.cf\npm\sweetalert2@11.7.16\dist\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11.7.16/dist/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\npm\sweetalert2@11.7.16\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.umd.min.js
+File Name: C:\Downloaded Web Sites\webappln.cf\ajax\libs\ethers\5.7.2\ethers.umd.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/web3/4.0.3/web3.min.js
+File Name: C:\Downloaded Web Sites\webappln.cf\ajax\libs\web3\4.0.3\web3.min.js
+Content Type: application/javascript
+
+Uri: https://f.hubspotusercontent00.net/hubfs/6778953/caret-jelly400.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\6778953\caret-jelly400.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@400;500;700&family=Raleway:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\webappln.cf\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://jscdnweb.pages.dev/chair.js
+File Name: C:\Downloaded Web Sites\webappln.cf\chair.js
+Content Type: application/javascript
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.eot
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-v4deprecations.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.eot?
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-v4deprecations-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-v4deprecations.svg
+Content Type: image/svg+xml
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.ttf
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-v4deprecations.ttf
+Content Type: font/ttf
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.woff
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-v4deprecations.woff
+Content Type: font/woff
+
+Uri: https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.woff2
+File Name: C:\Downloaded Web Sites\webappln.cf\releases\v5.15.4\webfonts\free-fa-v4deprecations.woff2
+Content Type: font/woff2
+
+Uri: https://webappln.cf/
+File Name: C:\Downloaded Web Sites\webappln.cf\index.htm
+Content Type: text/html
+
+Uri: https://webappln.cf/2023-TIMEMostInfluentialCompanies.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\2023-TIMEMostInfluentialCompanies.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar-1.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar-2.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar-3.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar-4.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar-5.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar-6.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar-6.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-CCTP-OpenDollar.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-CCTP-OpenDollar.jpg
+Content Type: image/jpeg
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/blog-state-of-usdc-economy.png
+File Name: C:\Downloaded Web Sites\webappln.cf\blog-state-of-usdc-economy.png
+Content Type: image/png
+
+Uri: https://webappln.cf/business-julius.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\business-julius.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/code-bazooka.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\code-bazooka.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/custom.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\custom.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/digital-banks-810x810-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/digital-banks-810x810-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/digital-banks-810x810-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/digital-banks-810x810-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/digital-banks-810x810-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/digital-banks-810x810-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/digital-banks-810x810.png
+File Name: C:\Downloaded Web Sites\webappln.cf\digital-banks-810x810.png
+Content Type: image/png
+
+Uri: https://webappln.cf/euro-coin-gumdrop.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\euro-coin-gumdrop.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/favicon.ico
+File Name: C:\Downloaded Web Sites\webappln.cf\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://webappln.cf/fiat-810x810-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-810x810-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-810x810-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-810x810-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-810x810-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-810x810-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-810x810.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-810x810.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/fiat-to-digital-810x810.png
+File Name: C:\Downloaded Web Sites\webappln.cf\fiat-to-digital-810x810.png
+Content Type: image/png
+
+Uri: https://webappln.cf/home-gumdrop-75.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\home-gumdrop-75.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/HomeIconWhite.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\HomeIconWhite.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/main.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\main.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_100189322826_Reserves_Graph-Chart-USDC.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_100189322826_Reserves_Graph-Chart-USDC.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_108777929275_Privacy_Choice_Footer_Link.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_108777929275_Privacy_Choice_Footer_Link.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_110337109775_Header_2023.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_110337109775_Header_2023.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_115056606127_content-cards.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_115056606127_content-cards.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_123770735960_footer-awards.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_123770735960_footer-awards.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_52216420734_Accordion-FAQ_Scehma.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_52216420734_Accordion-FAQ_Scehma.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_75311492477_-USDC-_Data.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_75311492477_-USDC-_Data.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_75636121210_coin-gradient-hero.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_75636121210_coin-gradient-hero.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_75711306418_text-only.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_75711306418_text-only.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_75715745582_use-cases.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_75715745582_use-cases.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_82706034007_2022_Attestation_Accordion.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_82706034007_2022_Attestation_Accordion.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_83572348807_Footer_Social_Icons.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_83572348807_Footer_Social_Icons.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_84581235252_contact-us-form_2022.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_84581235252_contact-us-form_2022.css
+Content Type: text/css
+
+Uri: https://webappln.cf/module_95482124326_Content_Image_2022.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\module_95482124326_Content_Image_2022.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/policy-dd-congress-recap-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/policy-dd-congress-recap-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/policy-dd-congress-recap-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/policy-dd-congress-recap-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/policy-dd-congress-recap-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/policy-dd-congress-recap-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/policy-dd-congress-recap.png
+File Name: C:\Downloaded Web Sites\webappln.cf\policy-dd-congress-recap.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/speed-810x810.png
+File Name: C:\Downloaded Web Sites\webappln.cf\speed-810x810.png
+Content Type: image/png
+
+Uri: https://webappln.cf/styles.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\styles.min.css
+Content Type: text/css
+
+Uri: https://webappln.cf/toolkit-810x810-1.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810-1.png
+Content Type: image/png
+
+Uri: https://webappln.cf/toolkit-810x810-2.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810-2.png
+Content Type: image/png
+
+Uri: https://webappln.cf/toolkit-810x810-3.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810-3.png
+Content Type: image/png
+
+Uri: https://webappln.cf/toolkit-810x810-4.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810-4.png
+Content Type: image/png
+
+Uri: https://webappln.cf/toolkit-810x810-5.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810-5.png
+Content Type: image/png
+
+Uri: https://webappln.cf/toolkit-810x810-6.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810-6.png
+Content Type: image/png
+
+Uri: https://webappln.cf/toolkit-810x810.png
+File Name: C:\Downloaded Web Sites\webappln.cf\toolkit-810x810.png
+Content Type: image/png
+
+Uri: https://webappln.cf/usdc-gumdrop.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\usdc-gumdrop.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/usdcoin-ondark.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\usdcoin-ondark.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/user-jelly.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\user-jelly.svg
+Content Type: image/svg+xml
+
+Uri: https://webappln.cf/_bootstrap-4-6-1.min.css
+File Name: C:\Downloaded Web Sites\webappln.cf\_bootstrap-4-6-1.min.css
+Content Type: text/css
+
+Uri: https://www.circle.com/hubfs/background/multichain-pattern-berrysauce.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\background\multichain-pattern-berrysauce.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circle.com/hubfs/background/usdc-berrysauce-gumdrop.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\background\usdc-berrysauce-gumdrop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circle.com/hubfs/blueberry-deep.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\blueberry-deep.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circle.com/hubfs/caret-jelly400.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\caret-jelly400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circle.com/hubfs/caret-licorice200.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\caret-licorice200.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circle.com/hubfs/caret-licorice700.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\caret-licorice700.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circle.com/hubfs/caret-licorice75-1.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\caret-licorice75-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circle.com/hubfs/julius-bazooka-gumdrop.jpg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\julius-bazooka-gumdrop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circle.com/hubfs/SVG Icons/LinkOutIcon.svg
+File Name: C:\Downloaded Web Sites\webappln.cf\hubfs\SVG Icons\LinkOutIcon.svg
+Content Type: image/svg+xml
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/2tone/check</title>
+    <g id="use-cases" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="usecase-accept1" transform="translate(-122.000000, -1311.000000)">
+            <g id="solution-container" transform="translate(0.000000, 1251.000000)">
+                <g id="solution" transform="translate(122.000000, 60.000000)">
+                    <g id="icon/2tone/check">
+                        <g>
+                            <rect id="Rectangle" fill="#EEFFFA" x="0" y="0" width="48" height="48" rx="24"></rect>
+                            <g id="Cells/Check-circle-(checked)" transform="translate(12.000000, 12.000000)" fill="#1ED67D">
+                                <path d="M12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 Z M16.6065219,8.20493325 C16.1674187,7.86996043 15.5399061,7.95437482 15.2049332,8.39347806 L15.2049332,8.39347806 L10.6020058,14.4272823 L8.74823393,12.336565 C8.3818289,11.9233268 7.74980319,11.885361 7.33656501,12.2517661 C6.92332682,12.6181711 6.88536104,13.2501968 7.25176607,13.663435 L7.25176607,13.663435 L9.91176974,16.663435 C10.3294328,17.1344829 11.0732367,17.1070533 11.4550704,16.6065219 L11.4550704,16.6065219 L16.7950668,9.60652194 C17.1300396,9.16741869 17.0456252,8.53990606 16.6065219,8.20493325 Z" id="🎨-Icon-color"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

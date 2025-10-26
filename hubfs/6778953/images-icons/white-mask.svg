@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="142px" viewBox="0 0 1440 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <g id="new-grid!" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payouts" transform="translate(0.000000, -610.000000)" fill="#ffffff">
+            <g id="HERO" transform="translate(-2.000000, 0.000000)">
+                <g id="divider/up-apple" transform="translate(0.000000, 0.446798)">
+                    <path d="M722.506852,735.392506 C1005.90628,735.392506 1261.96994,687.172097 1445,609.559013 L1445,752.392506 L0.0207254945,752.392506 L4.54747351e-13,609.553202 C183.030984,687.16969 439.100348,735.392506 722.506852,735.392506 Z" id="apple-25" transform="translate(722.500000, 680.972854) rotate(-180.000000) translate(-722.500000, -680.972854) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
